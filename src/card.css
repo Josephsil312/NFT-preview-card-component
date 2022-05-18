@@ -1,0 +1,67 @@
+.cardContainer {
+    width: 24%;
+    margin-left: 200px;
+    margin-top: 100px;
+    height: auto;
+    background-color: hsl(217, 54%, 11%);
+    border-radius: 15px;
+    padding: 20px 10px 25px 20px;
+}
+.logo {
+    border-radius: 15px;
+    width: 327px;
+    height: 300px;
+}
+
+.heading {
+    margin-top: 15px;
+    font-size: 25px;
+    color: hsl(178, 100%, 50%);
+}
+.para {
+    margin-top: 25px;
+    color: hsl(215, 51%, 70%);
+}
+
+.items {
+    align-items: center;
+    display: flex;
+    color: hsl(215, 51%, 70%);
+}
+
+.eth{
+    margin-top: 20px;
+    color: hsl(178, 100%, 50%);
+}
+
+.days {
+    margin-top: 11px;
+    margin-left: 187px;
+}
+
+.hor{
+    border: 0.5px solid hsl(215, 51%, 70%);
+    margin-top: 18px;
+    margin-right: 13px;
+    outline: none;
+}
+
+.profile {
+    display: flex;
+}
+
+.profileimage {
+    margin-top: 30px;
+    width: 50px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.text {
+    margin-top: 42px;
+    margin-left: 20px;
+    color: hsl(215, 51%, 70%);
+}
+.changeColor {
+    color: hsl(178, 100%, 50%);
+}
